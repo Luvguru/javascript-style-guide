@@ -8,10 +8,6 @@ Other Style Guides (from Wia)
  - [ES5](es5/)
  - [React](react/)
 
-Other Style Guides (from Airbnb)
- - [CSS & Sass](https://github.com/airbnb/css)
- - [Ruby](https://github.com/airbnb/ruby)
-
 ## Table of Contents
 
   1. [Types](#types)
